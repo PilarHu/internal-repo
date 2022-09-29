@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>hu.pilar</groupId>
+  <artifactId>kamra-js-deps</artifactId>
+  <versioning>
+    <release>2022.07.01</release>
+    <versions>
+      <version>2022.07.01</version>
+    </versions>
+    <lastUpdated>20220929215639</lastUpdated>
+  </versioning>
+</metadata>
